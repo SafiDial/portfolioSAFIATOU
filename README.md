@@ -1,8 +1,7 @@
 
 # 🌐 Portfolio Safiatou 🎓
 
-Ce portfolio présente mes réalisations dans le cadre de ma formation en **BTS SIO**,
-option **SLAM** (Solutions Logicielles et Applications Métiers).
+Ce portfolio présente mes réalisations dans le cadre de ma formation CDA Concepteur Développeur d'Application.
 
 ## 📁 Structure du projet
 
