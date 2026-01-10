@@ -1,5 +1,5 @@
 
-# 🌐 Portfolio BTS SIO SLAM 🎓
+# 🌐 Portfolio Safiatou 🎓
 
 Ce portfolio présente mes réalisations dans le cadre de ma formation en **BTS SIO**,
 option **SLAM** (Solutions Logicielles et Applications Métiers).
