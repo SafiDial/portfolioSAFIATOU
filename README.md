@@ -24,4 +24,4 @@ Ce portfolio présente mes réalisations dans le cadre de ma formation CDA Conce
 - **JavaScript** ⚡ pour l'interactivité.
 
 
-[clique dessus pour voir la publication du portfolio](https://safidial.github.io/portfolio-bts-sio-slam-2024-2025/)
+[clique dessus pour voir la publication du portfolio](https://safidial.github.io/portfolioSAFIATOU/)
